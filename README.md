@@ -1,4 +1,7 @@
 ![PyTorch Logo](https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.png)
+
+[//]: # (Image is taken from Pytorch  Github Repo)
+
 > Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 PyTorch is an open source machine learning library for Python, based on Torch, used for applications such as natural language processing. It is primarily developed by Facebook's artificial-intelligence research group, and Uber's "Pyro" software for probabilistic programming is built on it
